@@ -1,0 +1,8 @@
+Test for sign ins:
+Admin account:
+99999, testadmin
+11111, testadmin2
+
+Seller Account:
+21914, bubbly
+75603, legalbev
